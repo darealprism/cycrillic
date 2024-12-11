@@ -13,3 +13,5 @@ Once activated, open your `data/data.txt` file. Everytime you change the content
 
 When **Snowcord** sends a typing race minigame, random characters are replaced with charcode lookalikes.
 This program automatically replaces all lookalikes with their real characters, allowing you to finish a typing race in arounf 3-10 seconds if fast enough.
+
+https://rodevs.com/snowcord
