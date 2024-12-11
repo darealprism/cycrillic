@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "copy-paste": "^1.5.3",
+    "fs": "^0.0.1-security"
+  }
+}
